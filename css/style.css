@@ -927,6 +927,8 @@ img {
   line-height: 1.25;
   letter-spacing: 0.03em;
   color: #ffffff;
+
+  /* цвет скоректирован */
 }
 
 .footer-submit-input:focus {
